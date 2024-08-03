@@ -1,0 +1,33 @@
+#update-section {
+    margin-top: 20px;
+}
+
+#professor-name-input, #research-interest-input {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 250px;
+    font-size: 16px;
+}
+
+#update-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#update-button:hover {
+    background-color: #45a049;
+}
+
+#update-result {
+    margin-top: 20px;
+    font-size: 16px;
+}

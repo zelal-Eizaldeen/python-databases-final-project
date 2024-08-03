@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple/"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[packages]
+dash = "*"
+pandas = "*"
+python-dotenv = "*"
+mysql-connector-python = "*"
+neo4j = "*"
+dash-bootstrap-components = "*"
+pymongo = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
